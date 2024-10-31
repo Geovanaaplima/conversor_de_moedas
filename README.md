@@ -1,5 +1,7 @@
 # Conversor de Moedas
-
+<div align= center>
+<img src="Projeto-de-V%C3%ADdeo-1.gif" width="800px" >
+</div>
 ## Descrição
 Este projeto é um **Conversor de Moedas Simples**, baseando-se na taxa de câmbio de 24/10/2024, desenvolvido em trio na disciplina de **Desenvolvimento Web**,  sob a orientação do professor **Leonardo da Rocha** e colaboração de **Chrystian de Almeida Silva** e **Ana Laura Cenali**. O objetivo é permitir a conversão de valores monetários entre diferentes moedas (Libra, Euro, Dolar e Real) de forma interativa e visual. 
 
@@ -58,6 +60,7 @@ Um conversor de moedas é uma ferramenta que permite calcular o valor de uma moe
    ```bash
    git clone https://github.com/seu-usuario/conversor-moedas.git
    ```
+
 
 
 ### Colaboradores:
