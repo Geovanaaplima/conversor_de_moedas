@@ -62,5 +62,7 @@ Um conversor de moedas é uma ferramenta que permite calcular o valor de uma moe
 
 ### Colaboradores:
 [Chrystian de Almeida Silva](https://github.com/ESChrystian)
+
 [Geovana Aparecida de Lima](https://github.com/Geovanaaplima?tab=repositories)
+
 [Ana Laura Cenali](https://github.com/anacenali)
